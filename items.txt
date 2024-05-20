@@ -1,0 +1,4 @@
+health_potion 1 2
+elemental_potion 1 2
+poison_spell -5 0
+magic_armor 3 2

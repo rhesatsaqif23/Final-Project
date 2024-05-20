@@ -1,0 +1,3 @@
+Squirtle 1 350 500 60 water false
+Diglett 1 500 500 0 earth false
+Swinub 1 120 500 140 water true
